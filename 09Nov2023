@@ -1,0 +1,39 @@
+# Biology Club Meeting Minutes
+## Date: Thursday, November 9
+## Time: 11:00am-12:00pm
+## Attendees & Link to Recording
+- Dr. Alvares, Delta, Jessica, Jory, Arman, Oswald, Demiana, Anna
+## Link to recording
+- [link](https://bellevuecollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9494d2d-13aa-4529-a870-b0b5015af691)
+## Topics Covered
+- Administrative comments
+  - Trish is out for awhile
+  - Delta and Trish met w/ Amanda Arboleda with Student Organizations. Two types of funding we might try to get:
+    - ASG funding (need to fill out the forms; may be easier to get)
+    - Annual funding that we need to apply for in advance, likely for spring quarter.
+  - We will probably not make Discovery Day this year.
+- Alternative communications platform
+  - We already have a Discord, but it's not considered to be an official tool due to moderation issues, and Dr. Alvares would be excluded if we used it.
+  - Microsoft Teams is a more official tool, but it would need to be moderated by Dr. Alvares, and may also prevent us from having asynchronous chats with people outside of Bellevue College (such as Arman). We would have to test it.
+  - We decided that if there is a big announcement or similar, it’s best to use @all on the Discord and also send it to Dr. Alvares and the mailing list. Tessa (Bellevue College webmaster) can add any missing emails to our email mailing list. Smaller administrative type of content should go on Discord.
+- Insect barcoding project
+  - For our funding, Dr. Alvares believes that most of the reagents we’d need for our insect barcoding project are probably already available because they are pretty common reagents. But even if there are more rare ones that we need to purchase, we could probably still get funding because any leftover reagents could be used in a future biology course.
+  - Dr. Alvares will send the insect articles to Jory, Delta, and Trish as they go into the meeting with Chris.
+  - We could meet up to try out the reagents (possibly the last week of the quarter). Delta noted that for recurring use of the lab, we would need to formally plan an "event," but if we're just testing it out/prototyping it, we probably should not need a formal event planned.
+  - Insect barcoding project is likely to take place in winter quarter.
+- Timeline
+  - Oswald mentioned we put together a timeline for what we want to do this year. He’ll send out a suggested template for the timeline so we can meet our abstract submission goal.
+- Phylogenetic project
+  - In last week’s meeting, we reviewed the poster and talked about the future direction of project, the possibility of using different models, etc.
+  - In journal club yesterday, we looked at an article on COVID phylogenetics. Arman will send the paper back out to everyone. Figure 1 is helpful to look at (summarizing different ways to use phylogenetics to answer questions about the pandemic and public health policies). Also Fig 2., which shows how mutations may have evolved independently, and the phylogenetic tree (which is something we could do in our project too).
+  - The Wuhan sequence data was not making much sense, so we should try to investigate whether the model was not quite right.
+  - Thoughts on the project going forward: perhaps we can revisit our selection criteria. We could also look at new variants that are circulating, or go back more to the origin data (i.e., the Wuhan data).
+  - Dr. Alvares suggested we could potentially map some of these newer mutations, or come up with something similar to the diagram in the Nature paper ("Multiple sequence alignment" and "Phylogeny" diagram).
+  - It may also be good to add more strains to the mix, but Arman notes there are limitations as to how much info we can add because the number of possible phylogenetic trees it would require would be very time-consuming and require too many computing resources to analyze. It’s better to have a very specific question we want to answer as we approach the data.
+  - One question we could try to answer: how effective were lockdowns? (For example, we looked at the slide about Brazil and how their travel restrictions appeared to slow the introduction of new strains). We could focus on a region based on their policies (complete lockdown, vaccine prevalence, mask-wearing popularity before the pandemic, etc.) and compare it with a different region. Delta summarized our approach as: a comparative analysis of different regions using phylogenetics as a way of quantifying the effectiveness of certain policies.
+  - Arman noted it would be good to look at what's already been done; we can use this established data as a guide for our own research, and take some of their strains and put them into our own datasets.
+  - It may also be interesting to track the order in which mutations happened.
+  - Dr. Alvares asked if we want to stick with analyzing the spike protein for mutations, or look at other proteins for mutations. We will probably stick with spike proteins. Delta noted there is a lot more data related to spike proteins (as this has implications for vaccines, etc.)
+  - Arman commented that the comparative analysis of two different regions would be interesting, but also it would be interesting to track the mutations to see if there is evidence of convergent evolution (i.e., the same mutations happening) as though to "escape" the vaccine.
+  - Delta also noted we could compare the mRNA vs. traditional vaccines and how the virus may have responded. This could inform future policies around pandemics.
+  - Next step: Tracking down literature and reviewing the paper (it's on the Discord under "Literature.")
